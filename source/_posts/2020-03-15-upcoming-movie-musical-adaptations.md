@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Upcoming Movie-Musical Adaptations '
+title: 'Movie-Musical Adaptations '
 lang: en
 date: '2020-03-15T22:02:15-04:00'
 thumbnail: /images/uploads/b5.jpg
