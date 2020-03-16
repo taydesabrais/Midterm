@@ -4,7 +4,10 @@ title: Our List of Breakout Must-See Musicals
 lang: en
 date: '2020-03-05T21:40:35-05:00'
 thumbnail: /images/uploads/b1.jpg
-terms: 'Musicals, Musical Theatre, Broadway, New Musicals, Broadway tickets'
+terms: >-
+  Musicals, Musical Theatre, Broadway, New Musicals, Musicals to see on
+  Broadway, Broadway tickets, Hadestown, Jagged Little Pill, Beetlejuice, Mean
+  Girls, Dear Evan Hansen
 ---
 ## There are some **hot **new musicals on the rise down on Broadway, New York. Check out our list of breakout must-see musicals:
 
