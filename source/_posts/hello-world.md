@@ -1,39 +1,22 @@
 ---
-title: Hello World
+title: The Legacy of Patti LuPone
 lang: en
+date: '2020-03-15T00:00:00-04:00'
+thumbnail: /images/uploads/b3.jpg
+terms: >-
+  Patti LuPone, Patti Ann LuPone, Evita musical, Eva Peron, Company, War Paint,
+  The Anarchist, Gypsy, Sweeney Todd, Anything Goes, Children and Art, American
+  Theater Hall of Fame
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Patti LuPone is an American theatre actress born in 1949, most popular for her stage theatre performaces such as her pertrayal of Eva Peron in the original broadway production of Evita. She has performed in many broadway shows over the years, including:
 
-## Quick Start
+* Company
+* War Paint
+* The Anarchist
+* Gypsy 
+* Sweeney Todd
+* Anything Goes
+* Children and Art
+* & lots more!
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+She has won two Grammy Awards, two Tony Awards, and two Olivier Awards, in addition to countless other nominations. Patti was also inducted into the American Theater Hall of Fame in 2006. Her versatility and pristige in the theatre community definitely name her a Broadway legend.
